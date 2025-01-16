@@ -2,11 +2,13 @@
 
 # 
 
-#### GIT HUB  https://github.com/BogyunJeong
+#### GITHUB  
+https://github.com/BogyunJeong
 
 #### BLOG
 
-#### E-mail    ototkk58@naver.com
+#### E-mail    
+ototkk58@naver.com
 
 # Work Experiences
 
